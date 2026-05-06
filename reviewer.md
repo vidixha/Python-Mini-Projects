@@ -1,6 +1,3 @@
-Here's the full comment for DF3L:
-
----
 
 **W3 — Evaluation Metric Limitations and Lack of Stratified Analysis**
 
@@ -47,6 +44,3 @@ We identify three failure modes in DocIntentOCR-7B outputs: (i) systematic failu
 
 These analyses will be incorporated as a dedicated subsection in the revised submission. We respectfully ask the reviewer to reconsider the Soundness and Overall Assessment scores in light of this additional evidence.
 
----
-
-That's a strong comment. Want to review or tweak anything before posting?
