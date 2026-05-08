@@ -2,7 +2,6 @@
 
 | Aspect | Default Mode | Deepresearch Mode |
 |--------|--------------|-------------------|
-| **Execution Time** | 5–10 min | 40–50 min |
 | **Use Case** | Fast iteration during exploration | Final methodology decision before Setup phase |
 | **Tools Used** | HF Papers, arXiv, HF Datasets, GitHub, WebSearch | Same tools + enhanced tracking |
 
